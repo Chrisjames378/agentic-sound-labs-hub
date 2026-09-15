@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Sound Labs",
+  "description": "An AI-powered sound architecture hub and web audio synthesizer studio for designing, auditioning, and archiving generative synths and custom DSP patches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
